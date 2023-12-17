@@ -1,0 +1,10 @@
+#pragma once
+#include "Truck.h"
+#include "Trolleybus.h"
+#include "Bus.h"
+#include "FileException.h"
+#include "InputException.h"
+#include "IteratorException.h"
+#include "Algorithm.h"
+#include "Ring.cpp"
+#include "priority_queue.h"
