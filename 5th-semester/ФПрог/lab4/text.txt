@@ -1,0 +1,5 @@
+At its most basic, programming tells a computer what to do.
+First, a programmer writes code—a set of letters, numbers, and other characters. 
+Next, a compiler converts each line of code into a language a computer can understand. 
+Then, the computer scans the code and executes it, thereby performing a task or series of tasks. 
+Tasks might include displaying an image on a webpage or changing the font of a section of text. 
